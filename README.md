@@ -8,7 +8,7 @@ You can click the Preview link to take a look at your changes.
 - 🔭 Atualmente estou trabalhando como Analista de Suporte na Dock 
 - 🌱 Estou em transição de carreira, quero muito me tornar um desenvolvedor 
 - ⚡ Estou estudando: Python, Javascript, HTML, CSS, SQL e muita lógica de programação 
-
+- ✨ acompanhe meu progresso no repositório da Alura 
 ### 📫 Como entrar em contato comigo
 
 <div>
