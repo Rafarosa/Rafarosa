@@ -5,9 +5,8 @@ You can click the Preview link to take a look at your changes.
 ## Olá, me chamo Rafael A.R da Rosa ! 
 ### Seja muito bem vindo ao meu perfil GitHub 👋
 
-- 🔭 Atualmente estou trabalhando como Analista de Suporte na Dock 
-- 🌱 Estou em transição de carreira, quero muito me tornar um desenvolvedor 
-- ⚡ Estou estudando: Python, Javascript, HTML, CSS, SQL e muita lógica de programação 
+- 🌱 Estou em transição de carreira, quero muito me tornar um Cientista de Dados 
+- ⚡ Estou estudando: Python, SQL e muita lógica de programação 
 - ✨ Acompanhe meu progresso no repositórios
 ### 📫 Como entrar em contato comigo
 
@@ -20,9 +19,6 @@ You can click the Preview link to take a look at your changes.
 
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="40" height="40"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="40" height="40"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg" width="40" height="40" />
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg" width="40" height="40" />
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original-wordmark.svg" width="40" height="40" />
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original-wordmark.svg" width="40" height="40" />
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/visualstudio/visualstudio-plain.svg" width="40" height="40" />
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pycharm/pycharm-original-wordmark.svg" width="40" height="40" />
 
