@@ -8,8 +8,8 @@ You can click the Preview link to take a look at your changes.
 - Estou em transição de carreira, quero muito me tornar um Cientista de Dados 
 - Estou estudando: Python, SQL e Metodologias de Ciência de dados 
 - Acompanhe meu progresso no repositórios publicos
-Vaja um dos projetos de Ciëncia de dados que construi no decorrer do aprendizado
-<a href="https://www.kaggle.com/code/rafaelarrosa/projeto-final-python-para-an-lise-de-dados">Exploração de dados de Crédito</a>
+Vaja alguns dos projetos de Ciëncia de dados que construi no decorrer do aprendizado
+<a href="https://rafarosa.github.io/data_science_projects/">Projetos em Ciência de Dados</a>
 
 ### 📫 Como entrar em contato comigo
 
